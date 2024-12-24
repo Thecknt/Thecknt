@@ -1,4 +1,4 @@
-# Hello! I'm Cristian Barreto, a passionate Backend Developer dedicated to crafting technological solutions that enhance people's lives.
+# Hello! I'm Cristian Barreto, a passionate Backend Developer dedicated to crafting technological solutions that enhance people's lives. 🚀
 
 About Me:
 
@@ -18,7 +18,8 @@ Professional Highlights:
 
 Let's Connect:
 
-**LinkedIn:** [linkedin.com/in/cristian\-barreto](https://www.linkedin.com/in/cristian-barreto)
+💼 **LinkedIn:** [linkedin.com/in/cristian\-barreto](https://www.linkedin.com/in/cristian-barreto)
+
 I'm excited about opportunities that allow me to contribute my skills and grow alongside innovative teams.
 
 

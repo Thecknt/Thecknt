@@ -1,5 +1,25 @@
-# 💫 About Me:
-👋 Hi, I’m Cristian Barreto<br>👀 I’m interested in software development. Passionate about developing technology that positively impacts people's lives. Always eager to learn and collaborate with others to bring innovative ideas to life<br>🌱 I’m learning a course at EEG Corporation Full Stack, Codo a Codo, Udemy, Todo Code Academy, ATL academy, among others. I'm continuously expanding my knowledge, covering both front-end and back-end technologies as well as their frameworks.<br>💞️ I'm seeking to collaborate in an environment that allows me to enhance my knowledge and continue developing my soft skills.<br>📫 How to reach me barretocristianr@gmail.com<br>💼 https://www.linkedin.com/in/cristianrbarreto/
+# Hello! I'm Cristian Barreto, a passionate Backend Developer dedicated to crafting technological solutions that enhance people's lives.
+
+About Me:
+
+💡 Innovation Enthusiast: I thrive on developing technology that positively impacts daily life.
+
+📚 Lifelong Learner: Continuously expanding my expertise in both front-end and back-end technologies, along with their respective frameworks.
+
+🤝 Collaborative Team Player: Eager to work in environments that foster knowledge sharing and the development of soft skills.
+
+Professional Highlights:
+
+🔧 Backend Development: Proficient in server-side programming, database management, and API integration.
+
+🚀 Continuous Improvement: Committed to refining processes and adopting best practices to enhance efficiency and code quality.
+
+🌐 Interpersonal Skills: Strong communicator with a proven ability to collaborate effectively with cross-functional teams.
+
+Let's Connect:
+
+LinkedIn: linkedin.com/in/cristian-barreto
+I'm excited about opportunities that allow me to contribute my skills and grow alongside innovative teams.
 
 
 ## 🌐 Socials:
